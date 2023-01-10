@@ -28,11 +28,11 @@ Hi, I am trying to become a nice developer😎
   <!--백-->
   ### Backend
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<!--    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> -->
    <br>
    
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+<!--    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> -->
    <br>
    
    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
