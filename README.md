@@ -24,7 +24,7 @@ Hi, I am trying to become a nice developer😎
  
 ## :laughing: 가장 최신 프로젝트! 
 
-* MSA 환경에서 살아남기..
+### MSA 환경에서 살아남기..
 
 ## Click >> [링크!!](https://github.com/lucycato-backend/lucycato-e-commerce) :+1: 
 
