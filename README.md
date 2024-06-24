@@ -18,7 +18,7 @@ Here are some ideas to get you  started:
 ## Introduction :raised_hands:
 Hi, I am trying to become a nice developer😎
  
-## Click >> <a href ="https://00msb.notion.site/MoonSeokBeom-b9d55d8e328e46d5928a6507f03e69cc?pvs=4">My Portfolio!!  :sparkles: </a> <br> Click >> <a href ="https://velog.io/@witwint">My Blog!!  :sparkles: </a>
+## Click >> <a href ="https://00msb.notion.site/MoonSeokBeom-b9d55d8e328e46d5928a6507f03e69cc?pvs=4">My Portfolio!! :+1:  </a> <br> Click >> <a href ="https://velog.io/@witwint">My Blog!! :+1:  </a>
 <br/><br/>
  
  
