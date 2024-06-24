@@ -25,6 +25,7 @@ Hi, I am trying to become a nice developer😎
 ## 가장 최신 프로젝트!
 
 https://github.com/lucycato-backend/lucycato-e-commerce
+</div>
 
 ## 🛠️ Stacks 기술 스택
 
@@ -50,6 +51,3 @@ https://github.com/lucycato-backend/lucycato-e-commerce
 
 - Slack
 - Git
-  
- 
-</div>
