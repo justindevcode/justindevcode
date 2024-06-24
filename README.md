@@ -26,7 +26,30 @@ Hi, I am trying to become a nice developer😎
 
 https://github.com/lucycato-backend/lucycato-e-commerce
 
+## 🛠️ Stacks 기술 스택
 
+## Backend
+
+- Java
+- Spring Boot
+- InteliJ, Visual Studio Code
+
+## DevOps
+
+- AWS EC2
+- MySQL
+- Redis
+- Nginx
+- Docker
+- Jenkins
+- Grafana
+- Prometheus
+- Gateway
+
+## Collaboration
+
+- Slack
+- Git
   
  
 </div>
