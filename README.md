@@ -1,57 +1,26 @@
-<!--
-**witwint/witwint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About me
+[![Resume](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://00msb.notion.site/ca99e68f5fcb4979acb0d34387aa2b25?pvs=4)
+
+### 📚Study log
+[![Velog Badge](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@witwint/posts)
+<br/>
+
  
-Here are some ideas to get you  started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20Witwint&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
-
-<div align=center>
-<!--소개-->
-
-## Introduction :raised_hands:
-Hi, I am trying to become a nice developer😎
- 
-## Click >> <a href ="https://00msb.notion.site/MoonSeokBeom-b9d55d8e328e46d5928a6507f03e69cc?pvs=4">My Portfolio!! :+1:  </a> <br> Click >> <a href ="https://velog.io/@witwint">My Blog!! :+1:  </a>
-<br/><br/>
- 
- 
-## :laughing: 가장 최신 프로젝트! 
-
-### MSA 환경에서 살아남기..
-
-## Click >> [링크!!](https://github.com/lucycato-backend/lucycato-e-commerce) :+1: 
+### 💪 Language & Skill
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justindevcode&layout=compact)
 
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-3178C6?style=for-the-badge&logo=Spring&logoColor=white">
+</p>
+  
+<p>
+<img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Nodejs&logoColor=white">
+<img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+ <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+</p>
 
-## 🛠️ Stacks 기술 스택
 
-## Backend
-
-- Java
-- Spring Boot
-- InteliJ, Visual Studio Code
-
-## DevOps
-
-- AWS EC2
-- MySQL
-- Redis
-- Nginx
-- Docker
-- Jenkins
-- Grafana
-- Prometheus
-- Gateway
-
-## Collaboration
-
-- Slack
-- Git
+![justindevcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=justindevcode&show_icons=true&theme=radical)
