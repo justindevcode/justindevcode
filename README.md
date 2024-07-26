@@ -14,13 +14,6 @@
 <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-3178C6?style=for-the-badge&logo=Spring&logoColor=white">
 </p>
-  
-<p>
-<img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Nodejs&logoColor=white">
-<img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
- <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-</p>
 
 
 ![justindevcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=justindevcode&show_icons=true&theme=radical)
