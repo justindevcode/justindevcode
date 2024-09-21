@@ -9,7 +9,6 @@
 
  # 📚 Blog
 
-|![1](https://github.com/user-attachments/assets/fa45de12-8539-4073-91b7-a1ff8eb90796)<br>[스프링 퍼시스턴스 개발 고민](https://velog.io/@witwint/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8D%BC%EC%8B%9C%EC%8A%A4%ED%84%B4%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EB%AF%BC)<br>스프링에는 JDBC -> 하이버네이트 -> JPA,QueryDSL 등의 DB 연결과 쿼리사용의 기술 고민..<br>240406|내용 2|내용 3|
-|---|---|---|
-|내용 5|내용 6|내용 7|
+* [스프링 퍼시스턴스 개발 고민](https://velog.io/@witwint/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%8D%BC%EC%8B%9C%EC%8A%A4%ED%84%B4%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EB%AF%BC)
+* 
 
