@@ -1,5 +1,5 @@
 # 👋 About me
-[![Resume](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://00msb.notion.site/ca99e68f5fcb4979acb0d34387aa2b25?pvs=4)  
+[![Resume](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://00msb.notion.site/1bebfcfbba76458a9425258ca1f04628?pvs=4)
 
 * 안녕하세요 백엔드 개발자 문석범입니다.
 * [블로그](https://velog.io/@witwint/series), [깃허브](https://github.com/justindevcode) 등 꾸준한 활동을 통해 성장 지속성을 증명할 수 있습니다.
